@@ -27,4 +27,9 @@ It contains simple ui design which contains
 ![image](https://github.com/decodewithParth/Tip_Calculator/assets/137977825/9366e0d4-ff46-4160-85a2-6a92ee36059c)
 
 
+Here is working of app
+
+https://github.com/decodewithParth/Tip_Calculator/assets/137977825/170bbdbe-2472-401a-b0d7-3ab10ef30ded
+
+
 Any kind of suggestions or contribution are most welcomed.
